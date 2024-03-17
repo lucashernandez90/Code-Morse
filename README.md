@@ -8,3 +8,4 @@
 
 The idea of ​​this project is to create a code that translates morse code into alphabetical language with the Mealy transducer method, and I used Ruby for this project.
 
+If you want to make sure it's correct use this translator to see: ![Tradutor de código Morse](https://morsecode.world/international/translator.html)
